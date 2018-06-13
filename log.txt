@@ -1,0 +1,2 @@
+LOG pre_cadastro:	TestResults(failed=0, attempted=2)
+LOG pre_cadastro:	TestResults(failed=1, attempted=2)
